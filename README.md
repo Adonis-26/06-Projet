@@ -1,4 +1,4 @@
-# 🎨 Sophie Bluel - Architecte d'Intérieur
+# Sophie Bluel - Architecte d'Intérieur
 
 Application web développée dans le cadre du parcours Développeur Front-End d'OpenClassrooms.
 
