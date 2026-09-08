@@ -56,6 +56,10 @@ cd Backend
 npm install
 ```
 
+#le server se lance dans le backend
+```bash
+npm run start
+
 ---
 
 # 📚 Documentation API
