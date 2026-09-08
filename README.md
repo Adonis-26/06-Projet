@@ -56,12 +56,6 @@ cd Backend
 npm install
 ```
 
-## 2. Démarrer l'API
-
-```bash
-npm start
-```
-
 ---
 
 # 📚 Documentation API
