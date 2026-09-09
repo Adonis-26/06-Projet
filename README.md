@@ -6,7 +6,7 @@ Le projet consiste à créer le portfolio en ligne d'une architecte d'intérieur
 
 ---
 
-# 📋 Description
+# Description
 
 **Sophie Bluel** est une application permettant de présenter les réalisations d'une architecte d'intérieur.
 
@@ -19,7 +19,7 @@ Les travaux affichés dans la galerie sont récupérés depuis une API. Un admin
 
 ---
 
-# 🚀 Technologies utilisées
+# Technologies utilisées
 
 ## Front-End
 
@@ -38,7 +38,7 @@ Les travaux affichés dans la galerie sont récupérés depuis une API. Un admin
 
 ---
 
-# 🔧 Prérequis
+# Prérequis
 
 Avant de démarrer le projet, assurez-vous d'avoir installé :
 
@@ -47,7 +47,7 @@ Avant de démarrer le projet, assurez-vous d'avoir installé :
 
 ---
 
-# ⚙️ Installation
+# Installation
 
 ## 1. Installer les dépendances du backend
 
@@ -62,7 +62,7 @@ npm run start
 
 ---
 
-# 📚 Documentation API
+#  Documentation API
 
 La documentation Swagger est disponible une fois le backend démarré.
 
